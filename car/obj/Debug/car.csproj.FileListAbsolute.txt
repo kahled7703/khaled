@@ -1,0 +1,15 @@
+D:\car\car\bin\Debug\car.exe.config
+D:\car\car\bin\Debug\car.exe
+D:\car\car\bin\Debug\car.pdb
+D:\car\car\obj\Debug\car.csprojResolveAssemblyReference.cache
+D:\car\car\obj\Debug\car.Form1.resources
+D:\car\car\obj\Debug\car.Properties.Resources.resources
+D:\car\car\obj\Debug\car.csproj.GenerateResource.Cache
+D:\car\car\obj\Debug\car.exe
+D:\car\car\obj\Debug\car.pdb
+D:\car\car\obj\Debug\car.Form2.resources
+D:\car\car\obj\Debug\car.cars.resources
+D:\car\car\obj\Debug\car.car_csut.resources
+D:\car\car\obj\Debug\car.csut.resources
+D:\car\car\obj\Debug\car._ُEmployee.resources
+D:\car\car\obj\Debug\car.حول_النظامcs.resources
